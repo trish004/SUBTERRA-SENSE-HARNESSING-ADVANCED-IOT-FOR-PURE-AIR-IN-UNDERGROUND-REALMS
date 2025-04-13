@@ -107,5 +107,6 @@ For questions or collaborations, contact:
 
 ## 🔗 Citation
 
-If you use or refer to this work, please cite as: Maganga, Ropafadzo Trish. (2024). Subterra Sense: Harnessing Advanced IoT for Pure Air in Underground Realms. Lovely Professional University.
+If you use or refer to this work, please cite as: Trish Maganga (2025) “trish004/SUBTERRA-SENSE-HARNESSING-ADVANCED-IOT-FOR-PURE-AIR-IN-UNDERGROUND-REALMS: 
+SUBTERRA-SENSE-HARNESSING-ADVANCED-IOT-FOR-PURE-AIR-IN-UNDERGROUND-REALMS”. Zenodo. doi: 10.5281/zenodo.15202071.
 
